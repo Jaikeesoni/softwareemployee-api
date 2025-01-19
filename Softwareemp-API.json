@@ -1,0 +1,144 @@
+{
+	"employees": [
+		{
+			"id": 101,
+			"name": "Alice Johnson",
+			"role": "Software Developer",
+			"department": "IT",
+			"salary": {
+				"base": 75000,
+				"bonus": 5000,
+				"deductions": 2000,
+				"currency": "USD"
+			},
+			"total_compensation": 78000,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 102,
+			"name": "Bob Smith",
+			"role": "DevOps Engineer",
+			"department": "Operations",
+			"salary": {
+				"base": 80000,
+				"bonus": 6000,
+				"deductions": 2500,
+				"currency": "USD"
+			},
+			"total_compensation": 83500,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 103,
+			"name": "Charlie Brown",
+			"role": "QA Engineer",
+			"department": "Quality Assurance",
+			"salary": {
+				"base": 70000,
+				"bonus": 4000,
+				"deductions": 1800,
+				"currency": "USD"
+			},
+			"total_compensation": 72200,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 104,
+			"name": "Diana Prince",
+			"role": "Project Manager",
+			"department": "Management",
+			"salary": {
+				"base": 90000,
+				"bonus": 10000,
+				"deductions": 3000,
+				"currency": "USD"
+			},
+			"total_compensation": 97000,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 105,
+			"name": "Ethan Hunt",
+			"role": "Backend Developer",
+			"department": "IT",
+			"salary": {
+				"base": 77000,
+				"bonus": 5500,
+				"deductions": 2200,
+				"currency": "USD"
+			},
+			"total_compensation": 80300,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 106,
+			"name": "Fiona Gallagher",
+			"role": "Frontend Developer",
+			"department": "IT",
+			"salary": {
+				"base": 74000,
+				"bonus": 5000,
+				"deductions": 2000,
+				"currency": "USD"
+			},
+			"total_compensation": 77000,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 107,
+			"name": "George Lucas",
+			"role": "Data Scientist",
+			"department": "Analytics",
+			"salary": {
+				"base": 95000,
+				"bonus": 12000,
+				"deductions": 4000,
+				"currency": "USD"
+			},
+			"total_compensation": 103000,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 108,
+			"name": "Hannah Baker",
+			"role": "HR Manager",
+			"department": "Human Resources",
+			"salary": {
+				"base": 85000,
+				"bonus": 8000,
+				"deductions": 3000,
+				"currency": "USD"
+			},
+			"total_compensation": 90000,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 109,
+			"name": "Ian Fleming",
+			"role": "Database Administrator",
+			"department": "IT",
+			"salary": {
+				"base": 78000,
+				"bonus": 6000,
+				"deductions": 2500,
+				"currency": "USD"
+			},
+			"total_compensation": 81500,
+			"pay_period": "Annual"
+		},
+		{
+			"id": 110,
+			"name": "Jessica Jones",
+			"role": "UX Designer",
+			"department": "Design",
+			"salary": {
+				"base": 72000,
+				"bonus": 4500,
+				"deductions": 2100,
+				"currency": "USD"
+			},
+			"total_compensation": 74400,
+			"pay_period": "Annual"
+		}
+	]
+}
